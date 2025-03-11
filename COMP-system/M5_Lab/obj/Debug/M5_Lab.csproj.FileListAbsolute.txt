@@ -1,0 +1,10 @@
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.csproj.AssemblyReference.cache
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.Form1.resources
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.Properties.Resources.resources
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.csproj.GenerateResource.cache
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.csproj.CoreCompileInputs.cache
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\bin\Debug\M5_Lab.exe.config
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\bin\Debug\M5_Lab.exe
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\bin\Debug\M5_Lab.pdb
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.exe
+C:\Users\17816\source\repos\M5_Lab\M5_Lab\obj\Debug\M5_Lab.pdb
